@@ -9,5 +9,5 @@ package main.newpackage;
  * @author cebor
  */
 public class prueba {
-    
+    String nombreGato;
 }
